@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sed -e '/STORE/,/RETRIEVE/ d' -e '/STEP/ d' -e '/MLCAD/ d' -e '/LPUB/ d'  donkervoort.mpd > donkervoort_nosteps.mpd

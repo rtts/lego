@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280.7"
+   height="720"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="frontpage.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3801">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3803" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3805" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3785">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0"
+         id="stop3787" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop3789" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3785"
+       id="radialGradient3791"
+       cx="625.51868"
+       cy="410.93472"
+       fx="625.51868"
+       fy="410.93472"
+       r="640.34998"
+       gradientTransform="matrix(1.086469,0.71545732,-0.746519,1.1336382,257.01134,-539.28315)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3801"
+       id="linearGradient3807"
+       x1="1198.0115"
+       y1="615.15509"
+       x2="519.33276"
+       y2="142.4037"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="660.59865"
+     inkscape:cy="369.09237"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="in"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1076"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showborder="false"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="image"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-332.35975)"
+     sodipodi:insensitive="true">
+    <image
+       y="318.35974"
+       x="-88.411209"
+       id="image3117"
+       xlink:href="frontpage.jpg"
+       height="720"
+       width="1280.7" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:86.78601074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rammetto One;-inkscape-font-specification:Rammetto One"
+       x="628.93475"
+       y="576.71661"
+       id="text3121"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3123"
+         x="628.93475"
+         y="576.71661"
+         style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         dy="0 0 0 0 0 0 0 8.0812197"
+         dx="0 0 0 0 0 0 0 -11.111678">       Compact</tspan><tspan
+         sodipodi:role="line"
+         x="628.93475"
+         y="685.1991"
+         id="tspan3125"
+         style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         dx="2.0203052"
+         dy="-6.060915">Convertible</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.60270119px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="22"
+       y="656.97339"
+       id="text3809"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3811"
+         x="22"
+         y="656.97339">Created by Jaap Joris Vens</tspan><tspan
+         sodipodi:role="line"
+         x="22"
+         y="686.47675"
+         id="tspan3813">Free to copy and share</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="gradient"
+     style="opacity:0.31759662;display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#radialGradient3791);fill-opacity:1;stroke:none"
+       id="rect3015"
+       width="1280.7"
+       height="720"
+       x="0"
+       y="0" />
+  </g>
+</svg>

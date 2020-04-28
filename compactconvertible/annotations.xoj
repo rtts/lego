@@ -1,0 +1,1218 @@
+<?xml version="1.0" standalone="no"?>
+<xournal version="0.4.7">
+<title>Xournal document - see http://math.mit.edu/~auroux/software/xournal/</title>
+<page width="1024.56" height="576.00">
+<background type="pdf" domain="absolute" filename="/home/jj/ldraw/images/combined.pdf" pageno="1" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="2" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="34.88" y="452.50" color="black">Hey there! Welcome to the first step of building the Compact Convertible.
+Generally, these steps will speak for themselves. Sometimes I&apos;ll place a comment
+like this one if some extra explanation is needed. Have fun!</text>
+<stroke tool="pen" color="black" width="1.41">
+211.50 427.75 211.60 427.75 
+</stroke>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="3" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="4" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="5" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="6" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="7" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="8" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="9" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="10" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="11" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="12" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="13" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="259.50" y="47.91" color="black">Make sure the gear rack is perfectly centered,
+and carefully position the gear so that the axle
+running through it is centered as well.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="14" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="15" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="16" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="17" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="42.38" y="314.65" color="black">Before mounting the servo motor,
+make sure it is centered by connecting
+it to an IR receiver (which is connected
+to a batterybox). It will automatically
+rotate to the center position.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="18" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="19" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="20" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="33.38" y="349.33" color="black">Make sure the position of the
+light and dark gears is exactly
+as in the picture.
+
+Can you already guess what they are for?</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="21" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="22" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="23" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="24" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="25" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="26" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="27" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="286.88" y="498.50" color="black">The studs of the blue pins should face outside.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="28" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="97.50" y="326.31" color="black">Carefully slide the
+pistons into the
+engine first.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="29" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="54.75" y="478.12" color="black">Shift the black axle 6 sideways
+to make room for the two L-beams.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="30" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="31" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="32" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="33" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="34" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="35" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="36" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="37" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="38" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="39" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="40" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="36.75" y="386.28" color="black">Slide the wheel hub
+over the supporting axle
+while at the same time
+making sure that the
+driving axle slides
+through the wheel hub.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="41" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="42" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="759.00" y="364.75" color="black">Again, make sure the
+supporting axle and
+the driving axle are
+in the right place.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="43" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="44" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="45" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="46" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="47" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="48" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="49" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="50" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="51" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="52" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="53" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="54" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="256.50" y="24.62" color="black">Here&apos;s the second black pin.</text>
+<stroke tool="pen" color="black" width="0.85">
+413.25 78.62 410.88 73.75 408.50 68.87 406.12 64.00 403.75 59.12 401.38 54.25 399.00 49.37 
+</stroke>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="55" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="56" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="57" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="58" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="59" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="60" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="61" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="62" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="63" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="40.88" y="402.41" color="black">This and following steps
+will later be repeated
+for the other side. If you
+want, you can do them
+simultaneously.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="64" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="65" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="66" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="67" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="68" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="69" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="39.75" y="434.27" color="black">Slide the grey axle in while
+holding the black gear in
+the right place.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="70" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="71" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="72" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="73" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="74" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="75" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="76" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="77" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="40.50" y="463.75" color="black">Slide the grey axle in while
+holding the black gear in
+the right place.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="78" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="79" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="80" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="81" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="82" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="83" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="84" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="85" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="86" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="87" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="88" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="89" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="90" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="91" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="92" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="93" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="94" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="95" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="96" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="97" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="98" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="99" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="24.75" y="25.07" color="black">This might sound weird but is actually very important. You have to make
+sure that the universal joint is in the exact position as in this picture. If it
+would be rotated by 45 degrees (meaning that the little axle pointed out below
+is vertical instead of horizontal), much less movement gets transferred
+through the joint. Try it yourself!
+
+If you get this wrong, the movement of the windscreen wipers will not
+cover the complete windscreen. It will be really difficult to take the
+model apart and correct this afterwards. Make sure you get it right!</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="100" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="101" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="102" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="40.50" y="228.50" color="black">The wipers are
+above the steering
+wheel axle, but the
+link is beneath them.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="103" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="104" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="36.75" y="343.87" color="black">Connect all the motors
+to the IR receiver.
+Try to keep all the
+cables as much in the front
+as possible. A good place
+to tuck them away is between
+the L-motors, and in the place where
+the passenger&apos;s feet would go.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="105" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="106" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="39.38" y="204.99" color="black">Try to have no wires running
+behind this beam.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="107" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="108" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="109" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="37.50" y="214.92" color="black">If you want, you can do this
+and the following steps
+to the other side as well.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="110" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="111" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="112" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="113" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="114" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="115" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="116" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="117" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="118" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="119" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="120" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="121" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="122" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="123" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="124" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="125" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="126" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="91.50" y="433.19" color="black">Make sure you also connect the
+piece that supports the wiper axle.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="127" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="46.50" y="460.50" color="black">Congratulations, you got it!
+As a reward, enjoy some sweet wiper
+action by turning this axle.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="128" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="129" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="130" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="131" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="132" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="133" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="134" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="135" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="136" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="137" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="138" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="597.38" y="494.66" color="black">Connect both IR receivers
+to the batterybox.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="139" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="51.00" y="448.00" color="black">Congratulations,
+the first half of the
+model is done!</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="140" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="141" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="142" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="143" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="144" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="145" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="146" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="147" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="148" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="149" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="150" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="151" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="681.75" y="42.69" color="black">Make sure all the tan gears
+are on the same side.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="152" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="153" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="154" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="155" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="156" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="520.88" y="398.99" color="black">You can&apos;t see it, but the
+2x2 plate has a hole on
+the bottom side. It&apos;s the
+same part that&apos;s used in
+the mirrors.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="157" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="158" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="159" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="160" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="161" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="162" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="163" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="164" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="165" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="166" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="167" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="168" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="169" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="170" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="171" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="172" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="173" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="174" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="45.75" y="43.82" color="black">This is a difficult step. Take your time
+and make sure none of the gears
+fall out.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="175" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="176" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="177" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="178" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="179" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="180" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="181" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="182" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="183" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="184" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="185" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="186" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="187" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="188" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="189" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="190" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="49.50" y="49.53" color="black">Another hard step. Take care
+to connect all the pins of
+both submodels.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="191" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="192" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="193" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="194" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="195" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="196" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="197" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="198" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="199" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="200" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="201" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="202" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="50.25" y="47.25" color="black">All right! You&apos;re almost done.
+Only the roof remaining.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="203" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="204" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="205" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="206" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="207" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="208" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="209" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="210" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="211" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="212" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="213" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="628.50" y="78.04" color="black">Make sure the linear actuators
+are both fully extended before
+you attach them to the roof.</text>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="49.50" y="280.54" color="black">The roof has to be
+attached to the grey
+pins that are sticking
+out.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="214" />
+<layer>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="28.12" y="458.19" color="black">Pay special attention to
+correctly attaching the
+axle that drives the wipers.</text>
+<text font="DejaVu Sans Ultra-Light" size="22.00" x="739.12" y="36.69" color="black">Attach the L-motors to
+the IR-receiver and
+take care of the wires.</text>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="215" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="216" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="217" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="218" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="219" />
+<layer>
+</layer>
+</page>
+<page width="1024.39" height="575.94">
+<background type="pdf" pageno="219" />
+<layer>
+</layer>
+</page>
+</xournal>

@@ -5,14 +5,19 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: red;
-  color: white;
+  background: yellow;
 }
 
 a {
   color: white;
-  text-decoration: none;
-  border-bottom: 1px solid white;
+}
+
+p {
+  max-width: 700px;
+  img {
+    display: block;
+    width: 100%;
+  }
 }
 
 div.wrapper {
@@ -20,22 +25,13 @@ div.wrapper {
   clear: both;
 }
 
-div.sideways {
-  transform-origin: top right;
-  transform: rotate(90deg) translateX(100%);
-  white-space: nowrap;
-  position: absolute;
-  top: 0;
-  right: 0.4rem;
-
-  p {
-    margin: 0;
-  }
-}
-
 header {
-  background: yellow;
+  position: relative;
   padding: 1rem 0;
+  transform-origin: top left;
+  transform:rotate(1.718deg); // tan-1(0.03)
+  z-index: 1000;
+
   h1 {
     line-height: 1;
     margin: 0;
@@ -43,68 +39,116 @@ header {
       color: red;
       font-family: 'Major Mono Display';
       font-weight: normal;
-      border: none;
+      text-decoration: none;
       font-size: 7vw;
       @media(min-width: 714px) { font-size: 50px }
     }
   }
 }
 
+main:before, main:after {
+  content: '';
+  display: block;
+  background: yellow;
+  height: 3vw;
+  position: absolute;
+  width: 100%;
+}
+main:before {
+  top: 0;
+  left: 0;
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    100% 100%
+  );
+}
+main:after {
+  bottom: -0.5px;
+  left: 0;
+  clip-path: polygon(
+    0 100%,
+    100% 0,
+    100% 100%,
+  );
+}
+
+footer { height: 10rem }
+
 main {
+  background: red;
+  padding: 3vw 0;
+  color: white;
   position: relative;
   @media(min-width: 800px) { padding-right: 2rem }
+  overflow: hidden;
   h2 {
+    margin: 0;
+    margin-top: calc(2rem - 3vw);
     font-family: 'EB Garamond';
     font-style: italic;
     font-weight: normal;
     font-size: 2em;
     padding-right: 2rem;
   }
-}
-
-ul.index {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  margin: -1rem;
-
-  a {
-    color: black;
-    border: none;
-    flex: 1 1 calc(175px + 5vw);
-    display: inline-block;
-    margin: 2rem;
-    padding: 1rem;
-    background: white;
-    $perspective: calc(100px);
-    $amount: 3deg;
-    transform-origin: center;
-    transform: perspective($perspective) rotate3D(-1, 1, 0, $amount);
-    box-shadow: -5px 5px 0px darkblue;
-    box-sizing: border-box;
-
-    li {
+  div.sideways {
+    transform-origin: top right;
+    transform: rotate(90deg) translateX(100%);
+    white-space: nowrap;
+    position: absolute;
+    top: calc(1rem + 3vw);
+    right: 0.4rem;
+    p {
       margin: 0;
-      padding: 0;
-      display: block;
-
-      h3 {
-        margin: 0;
-        margin-bottom: 1rem;
-        text-align: center;
-      }
-
-      img {
-        display: block;
-        width: 100%;
-      }
     }
+  }
 
-    &.empty {
-      box-shadow: none;
-      background: none;
+  ul.index {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -1rem;
+
+    a {
+      color: black;
+      text-decoration: none;
+      flex: 1 1 calc(175px + 5vw);
+      display: inline-block;
+      margin: 2rem;
+      padding: 1rem;
+      background: white;
+      $perspective: calc(100px);
+      $amount: 3deg;
+      transform-origin: center;
+      transform: perspective($perspective) rotate3D(-1, 1, 0, $amount);
+      box-shadow: -5px 5px 0px darkblue;
+      box-sizing: border-box;
+
+      li {
+        margin: 0;
+        padding: 0;
+        display: block;
+
+        h3 {
+          margin: 0;
+          margin-bottom: 1rem;
+          text-align: center;
+        }
+
+        img {
+          display: block;
+          width: 100%;
+        }
+      }
+
+      &.empty {
+        box-shadow: none;
+        background: none;
+        height: 0;
+        padding: 0;
+        margin: 0;
+      }
     }
   }
 }

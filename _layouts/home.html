@@ -10,6 +10,8 @@ layout: default
   * as long as it's red, yellow or black
 </div>
 
+{{content}}
+
 <ul class="index">
   {% assign mocs = (site.mocs | sort: 'year') | reverse %}
   {%- for moc in mocs -%}

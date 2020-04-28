@@ -13,17 +13,16 @@ layout: default
 <ul class="index">
   {% assign mocs = (site.mocs | sort: 'year') | reverse %}
   {%- for moc in mocs -%}
-    <li>
-      <div class="rotated">
-        <h3>
-          <a href="{{ moc.url | relative_url }}">{{ moc.title }}</a>
-        </h3>
+    <a href="{{ moc.url | relative_url }}">
+      <li>
+        <h3>{{ moc.title }}</h3>
         <img src="https://raw.githubusercontent.com/rtts/lego/master{{ moc.url | relative_url }}{{ moc.cover }}" alt="{{ moc.title }}">
-      </div>
-    </li>
+      </li>
+    </a>
   {%- endfor -%}
-  <li class="empty"></li>
-  <li class="empty"></li>
-  <li class="empty"></li>
-  <li class="empty"></li>
+  <a class="empty"></a>
+  <a class="empty"></a>
+  <a class="empty"></a>
+  <a class="empty"></a>
+  <a class="empty"></a>
 </ul>

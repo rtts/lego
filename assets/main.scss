@@ -4,9 +4,9 @@
 html, body {
   margin: 0;
   padding: 0;
+  font-family: Arial, sans-serif;
   background: red;
   color: white;
-  font-family: Arial, sans-serif;
 }
 
 a {
@@ -16,7 +16,7 @@ a {
 }
 
 div.wrapper {
-  padding: 0 2rem;
+  padding: 0 1.5rem;
   clear: both;
 }
 
@@ -37,19 +37,21 @@ header {
   background: yellow;
   padding: 1rem 0;
   h1 {
+    line-height: 1;
     margin: 0;
     a {
       color: red;
       font-family: 'Major Mono Display';
       font-weight: normal;
       border: none;
-      font-size: 7.5vw;
+      font-size: 7vw;
     }
   }
 }
 
 main {
   position: relative;
+  @media(min-width: 800px) { padding-right: 2rem }
   h2 {
     font-family: 'EB Garamond';
     font-style: italic;
@@ -64,33 +66,43 @@ ul.index {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
+  margin: -1rem;
 
-  li {
-    flex: 1 1 300px;
+  a {
+    color: black;
+    border: none;
+    flex: 1 1 200px;
     display: inline-block;
-    margin: 1rem 0;
+    margin: 2rem;
+    padding: 1rem;
+    background: white;
+    $perspective: calc(100px);
+    $amount: 3deg;
+    transform-origin: center;
+    transform: perspective($perspective) rotate3D(-1, 1, 0, $amount);
+    box-shadow: -5px 5px 0px darkblue;
+    box-sizing: border-box;
 
-    a {
-      color: black;
-    }
+    li {
+      margin: 0;
+      padding: 0;
+      display: block;
 
-    div.rotated {
-      overflow: hidden;
-      height: 300px;
-      background: white;
-      $perspective: 1000px;
-      $amount: 20deg;
-      transform-origin: left;
-      transform: perspective($perspective) rotateY($amount);
+      h3 {
+        margin: 0;
+        margin-bottom: 1rem;
+        text-align: center;
+      }
 
       img {
-        width: 300px;
+        display: block;
+        width: 100%;
       }
     }
 
     &.empty {
+      box-shadow: none;
       background: none;
-      height: 0;
     }
   }
 }

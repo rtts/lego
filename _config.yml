@@ -1,0 +1,12 @@
+title: jj.created.today
+email: jj@rtts.eu
+description: >-
+  Hi there! You have landed on the personal Lego creations website of
+  Jaap Joris. Here I share my building instructions and LDraw files.
+baseurl: ""
+url: "https://jj.created.today"
+github_username: rtts
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

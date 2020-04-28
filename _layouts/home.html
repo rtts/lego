@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h2>
+  With LEGO® Technic™ you can build anything*
+</h2>
+
+<div class="sideways">
+  * as long as it's that's red, yellow or black
+</div>
+
+<ul class="index">
+  {% assign mocs = (site.mocs | sort: 'year') | reverse %}
+  {%- for moc in mocs -%}
+    <li>
+      <h3>
+        <a href="{{ moc.url | relative_url }}">{{ moc.title }}</a>
+      </h3>
+    </li>
+  {%- endfor -%}
+  <li class="empty"></li>
+  <li class="empty"></li>
+  <li class="empty"></li>
+  <li class="empty"></li>
+</ul>

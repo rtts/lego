@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <title>JJ.CREATED.TODAY</title>
+  </head>
+  <body>
+    <header>
+      <div class="wrapper">
+        <h1><a href="/">JJ>CREATED>TODAY</a></h1>
+      </div>
+    </header>
+
+    <main>
+      <div class="wrapper">
+        {{content}}
+      </div>
+    </main>
+
+    <footer>
+      <div class="wrapper">
+      </div>
+    </footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+          var links = document.querySelectorAll('a');
+          for (var link of links) {
+              var a = new RegExp('/' + window.location.host + '/');
+              if (!a.test(link.href)) {
+                  link.addEventListener('click', function(event) {
+                      event.preventDefault();
+                      event.stopPropagation();
+                      window.open(this.href, '_blank');
+                  });
+              }
+          }
+      });
+    </script>
+  </body>
+</html>

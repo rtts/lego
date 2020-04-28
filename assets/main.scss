@@ -1,0 +1,101 @@
+---
+---
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: red;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+}
+
+div.wrapper {
+  padding: 0 2rem;
+  clear: both;
+}
+
+div.sideways {
+  transform-origin: top right;
+  transform: rotate(90deg) translateX(100%);
+  white-space: nowrap;
+  position: absolute;
+  top: 0;
+  right: 0.4rem;
+
+  p {
+    margin: 0;
+  }
+}
+
+header {
+  background: yellow;
+  padding: 1rem 0;
+  h1 {
+    margin: 0;
+    a {
+      color: red;
+      font-family: 'Major Mono Display';
+      font-weight: normal;
+      border: none;
+      font-size: 7.5vw;
+    }
+  }
+}
+
+main {
+  position: relative;
+  h2 {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: normal;
+    font-size: 2em;
+  }
+}
+
+ul.index {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+
+  li {
+    flex: 1 1 300px;
+    display: inline-block;
+    margin: 1rem 0;
+    padding: 2rem;
+    background: white;
+    a {
+      color: black;
+    }
+
+    $perspective: 100vw;
+    $amount: 20deg;
+    transform-origin: center;
+    transform: perspective($perspective) rotateY($amount);
+
+    &.empty {
+      background: none;
+      height: 0;
+    }
+  }
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: normal;
+  src: url('EB_Garamond_italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Major Mono Display';
+  font-style: normal;
+  font-weight: normal;
+  src: url('Major_Mono_Display.woff2') format('woff2');
+}

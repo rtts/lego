@@ -69,16 +69,24 @@ ul.index {
     flex: 1 1 300px;
     display: inline-block;
     margin: 1rem 0;
-    padding: 2rem;
-    background: white;
+
     a {
       color: black;
     }
 
-    $perspective: 100vw;
-    $amount: 20deg;
-    transform-origin: center;
-    transform: perspective($perspective) rotateY($amount);
+    div.rotated {
+      overflow: hidden;
+      height: 300px;
+      background: white;
+      $perspective: 1000px;
+      $amount: 20deg;
+      transform-origin: left;
+      transform: perspective($perspective) rotateY($amount);
+
+      img {
+        width: 300px;
+      }
+    }
 
     &.empty {
       background: none;

@@ -7,16 +7,19 @@ layout: default
 </h2>
 
 <div class="sideways">
-  * as long as it's that's red, yellow or black
+  * as long as it's red, yellow or black
 </div>
 
 <ul class="index">
   {% assign mocs = (site.mocs | sort: 'year') | reverse %}
   {%- for moc in mocs -%}
     <li>
-      <h3>
-        <a href="{{ moc.url | relative_url }}">{{ moc.title }}</a>
-      </h3>
+      <div class="rotated">
+        <h3>
+          <a href="{{ moc.url | relative_url }}">{{ moc.title }}</a>
+        </h3>
+        <img src="https://raw.githubusercontent.com/rtts/lego/master{{ moc.url | relative_url }}{{ moc.cover }}" alt="{{ moc.title }}">
+      </div>
     </li>
   {%- endfor -%}
   <li class="empty"></li>

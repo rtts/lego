@@ -45,6 +45,7 @@ header {
       font-weight: normal;
       border: none;
       font-size: 7vw;
+      @media(min-width: 714px) { font-size: 50px }
     }
   }
 }
@@ -72,6 +73,7 @@ ul.index {
     color: black;
     border: none;
     flex: 1 1 200px;
+    @media(min-width: 1000px) { flex-basis: 250px }
     display: inline-block;
     margin: 2rem;
     padding: 1rem;

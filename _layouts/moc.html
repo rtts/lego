@@ -8,13 +8,6 @@ layout: default
   </div>
 </header>
 
-{%- for image in page.images -%}
-  <div class="moc-image">
-    <img class="moc" src="https://raw.githubusercontent.com/rtts/lego/master/{{ page.slug }}/{{ image }}" alt="{{ page.title }}">
-    <div class="hr_wrapper"><hr></div>
-  </div>
-{%- endfor -%}
-
 <div class="overlay">
   {{content}}
   <div class="download">
@@ -22,3 +15,10 @@ layout: default
     <a download href="https://raw.githubusercontent.com/rtts/lego/master/{{ page.slug }}/{{ page.slug }}_nosteps.mpd">LDraw source (MPD)</a>
   </div>
 </div>
+
+{%- for image in page.images -%}
+  <div class="moc-image">
+    <img class="moc" src="https://raw.githubusercontent.com/rtts/lego/master/{{ page.slug }}/{{ image }}" alt="{{ page.title }}">
+    <div class="hr_wrapper"><hr></div>
+  </div>
+{%- endfor -%}

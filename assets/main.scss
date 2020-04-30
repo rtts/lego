@@ -25,7 +25,7 @@ div.wrapper {
   clear: both;
 }
 
-header {
+header.home {
   position: relative;
   padding: 1rem 0;
   transform-origin: top left;
@@ -35,13 +35,14 @@ header {
   h1 {
     line-height: 1;
     margin: 0;
+    font-family: 'Major Mono Display';
+    font-weight: normal;
+    font-size: 7vw;
+    @media(min-width: 714px) { font-size: 50px }
+
     a {
       color: red;
-      font-family: 'Major Mono Display';
-      font-weight: normal;
       text-decoration: none;
-      font-size: 7vw;
-      @media(min-width: 714px) { font-size: 50px }
     }
   }
 }
@@ -149,6 +150,87 @@ main {
         padding: 0;
         margin: 0;
       }
+    }
+  }
+}
+
+// --- MOC pages ---
+
+body {
+  overflow-x: hidden;
+}
+
+header.moc {
+  position: relative;
+  padding: 1rem 0;
+  transform-origin: top right;
+  transform:rotate(-1.718deg); // tan-1(0.03)
+  z-index: 1000;
+  background: red;
+  margin-left: -10px;
+
+  h1 {
+    line-height: 1;
+    margin: 0;
+    font-family: 'Major Mono Display';
+    font-weight: normal;
+    font-size: 7vw;
+    @media(min-width: 714px) { font-size: 50px }
+
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+}
+
+img.moc {
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+}
+
+div.hr_wrapper {
+  height: 0;
+  hr {
+    height: 3vw;
+    background: #f00;
+    border: none;
+    z-index: 1000;
+    padding: 0;
+    margin: 0 -10px;
+  }
+}
+div.moc-image:nth-child(even) hr {
+    transform-origin: top left;
+    transform:rotate(1.718deg) translateY(-3vw); // tan-1(0.03)
+}
+div.moc-image:nth-child(odd) hr {
+    transform-origin: top right;
+    transform:rotate(-1.718deg) translateY(-3vw); // tan-1(0.03)
+}
+
+div.overlay {
+  position: fixed;
+  background: #fffc;
+  color: black;
+  bottom: 0rem;
+  right: 0rem;
+  padding: 1rem;
+  margin: 1rem;
+  border-top: 5px solid darkblue;
+  border-left: 5px solid darkblue;
+
+  max-width: 500px;
+
+  h1, h2, h3 {
+    margin: 0;
+  }
+
+  div.download {
+    float: right;
+    a {
+      color: black;
     }
   }
 }

@@ -2,29 +2,39 @@
 layout: default
 ---
 
-<h2>
-  With LEGO® Technic™ you can build anything*
-</h2>
+<header class="home">
+  <div class="wrapper">
+    <h1><a href="/">JJ&gt;CREATED&gt;TODAY</a></h1>
+  </div>
+</header>
 
-<div class="sideways">
-  * as long as it's red, yellow or black
-</div>
+<main>
+  <div class="wrapper">
+    <h2>
+      With LEGO® Technic™ you can build anything*
+    </h2>
 
-{{content}}
+    <div class="sideways">
+      * as long as it's red, yellow or black
+    </div>
 
-<ul class="index">
-  {% assign mocs = (site.mocs | sort: 'year') | reverse %}
-  {%- for moc in mocs -%}
-    <a href="{{ moc.url | relative_url }}">
-      <li>
-        <h3>{{ moc.title }}</h3>
-        <img src="https://raw.githubusercontent.com/rtts/lego/master{{ moc.url | relative_url }}{{ moc.cover }}" alt="{{ moc.title }}">
-      </li>
-    </a>
-  {%- endfor -%}
-  <a class="empty"></a>
-  <a class="empty"></a>
-  <a class="empty"></a>
-  <a class="empty"></a>
-  <a class="empty"></a>
-</ul>
+    {{content}}
+
+    <ul class="index">
+      {% assign mocs = (site.mocs | sort: 'year') | reverse %}
+      {%- for moc in mocs -%}
+        <a href="{{ moc.url | relative_url }}">
+          <li>
+            <h3>{{ moc.title }}</h3>
+            <img src="https://raw.githubusercontent.com/rtts/lego/master{{ moc.url | relative_url }}{{ moc.cover }}" alt="{{ moc.title }}">
+          </li>
+        </a>
+      {%- endfor -%}
+      <a class="empty"></a>
+      <a class="empty"></a>
+      <a class="empty"></a>
+      <a class="empty"></a>
+      <a class="empty"></a>
+    </ul>
+  </div>
+</main>

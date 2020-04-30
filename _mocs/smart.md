@@ -1,7 +1,7 @@
 ---
 title: Smart ForTwo
 year: 2016
-cover: renders/cover.png
+cover: renders/main.png
 ---
 
 # Smart ForTwo

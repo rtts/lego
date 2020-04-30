@@ -2,4 +2,23 @@
 layout: default
 ---
 
-{{content}}
+<header class="moc">
+  <div class="wrapper">
+    <h1><a href="/">JJ&gt;CREATED&gt;TODAY</a></h1>
+  </div>
+</header>
+
+{%- for image in page.images -%}
+  <div class="moc-image">
+    <img class="moc" src="https://raw.githubusercontent.com/rtts/lego/master/{{ page.slug }}/{{ image }}" alt="{{ page.title }}">
+    <div class="hr_wrapper"><hr></div>
+  </div>
+{%- endfor -%}
+
+<div class="overlay">
+  {{content}}
+  <div class="download">
+    <a download href="https://raw.githubusercontent.com/rtts/lego/master/{{ page.slug }}/{{ page.slug }}.pdf">Building instructions (PDF)</a> -
+    <a download href="https://raw.githubusercontent.com/rtts/lego/master/{{ page.slug }}/{{ page.slug }}.mpd">LDraw source (MPD)</a>
+  </div>
+</div>

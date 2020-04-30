@@ -82,8 +82,10 @@ main {
   padding: 3vw 0;
   color: white;
   position: relative;
-  @media(min-width: 800px) { padding-right: 2rem }
   overflow: hidden;
+  div.wrapper {
+    padding-right: 3rem;
+  }
   h2 {
     margin: 0;
     margin-top: calc(2rem - 3vw);
@@ -106,7 +108,7 @@ main {
   }
 
   ul.index {
-    padding: 0;
+    padding: 0 1.5rem;
     list-style: none;
     display: flex;
     flex-wrap: wrap;

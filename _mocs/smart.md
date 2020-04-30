@@ -2,16 +2,15 @@
 title: Smart ForTwo
 year: 2016
 cover: renders/main.png
+images:
+  - renders/struts.png
+  - renders/rear.png
+  - renders/dion.png
+  - renders/main.png
+  - instructions.png
+  - ldcad.png
 ---
 
 # Smart ForTwo
 
-This is a remote controlled Lego Technic model of a Smart Fortwo. Features:
-
-- Front suspension: ultra-compact McPhearson struts
-- Rear suspension: an approximation of a Dion tube (just like the real car!)
-- Remote-controlled drive and steering
-- PF lights
-- Easily removable batterybox
-- Doors and trunk can open
-- Rigid Tridion roll-cage
+An ultra-compact remote controlled model with full suspension. The rear suspension is an approximation of a [De Dion Tube](https://en.wikipedia.org/wiki/De_Dion_tube) and the front suspension is based on [MacPherson struts](https://en.wikipedia.org/wiki/MacPherson_strut).

@@ -188,6 +188,7 @@ img.moc {
   width: 100%;
   display: block;
   box-sizing: border-box;
+  background: white;
 }
 
 div.hr_wrapper {
@@ -214,6 +215,7 @@ div.overlay {
   position: fixed;
   background: #fffc;
   color: black;
+  a { color: black }
   bottom: 0rem;
   right: 0rem;
   padding: 1rem;
@@ -229,9 +231,6 @@ div.overlay {
 
   div.download {
     float: right;
-    a {
-      color: black;
-    }
   }
 }
 

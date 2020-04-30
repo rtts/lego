@@ -201,16 +201,17 @@ div.hr_wrapper {
     margin: 0 -10px;
   }
 }
-div.moc-image:nth-child(even) hr {
+div.moc-image:nth-child(odd) hr {
     transform-origin: top left;
     transform:rotate(1.718deg) translateY(-3vw); // tan-1(0.03)
 }
-div.moc-image:nth-child(odd) hr {
+div.moc-image:nth-child(even) hr {
     transform-origin: top right;
     transform:rotate(-1.718deg) translateY(-3vw); // tan-1(0.03)
 }
 
 div.overlay {
+  display:none;
   position: fixed;
   background: #fffc;
   color: black;

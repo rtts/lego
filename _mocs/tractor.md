@@ -18,5 +18,5 @@ images:
 
 This MOC is built around a sequential gearbox with four speeds.
 Driving, steering, and gear selection are all remotely operated by two
-Power Functions remote controls. Finally, the cabin is suspended and
+Power Functions remote controls. The cabin is suspended and
 (optionally) fitted with PF lights.

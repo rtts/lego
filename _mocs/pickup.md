@@ -13,9 +13,6 @@ images:
 
 # Pickup Truck
 
-This pickup truck was one of my first Lego Technic creations, and the
-first one that I created complete building instructions for.
-The drivetrain and steering are remotely controlled using *Power
-Functions*. It also features fully independent suspension with an
-interesting linkage to reduce height. This linkage is the inspiration
+Remote controlled truck with fully independent suspension that uses
+a clever linkage to reduce height. This linkage was the inspiration
 for the ultra-compact suspension of the [Moon Buggy](/moonbuggy/).

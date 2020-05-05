@@ -13,4 +13,8 @@ images:
 
 # Smart ForTwo
 
-An ultra-compact remote controlled model with full suspension. The rear suspension is an approximation of a [De Dion Tube](https://en.wikipedia.org/wiki/De_Dion_tube) and the front suspension is based on [MacPherson struts](https://en.wikipedia.org/wiki/MacPherson_strut).
+An ultra-compact remote controlled model with full suspension. The
+rear suspension is an approximation of a [De Dion
+Tube](https://en.wikipedia.org/wiki/De_Dion_tube) and the front
+suspension is based on [MacPherson
+struts](https://en.wikipedia.org/wiki/MacPherson_strut).

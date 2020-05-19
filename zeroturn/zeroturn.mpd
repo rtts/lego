@@ -692,7 +692,6 @@
 1 14 -20 0 80 0 0 -1 1 0 0 0 -1 0 42003.dat
 1 14 -20 0 -80 0 0 1 1 0 0 0 1 0 42003.dat
 1 14 -20 0 0 0 -1 0 1 0 0 0 0 1 32316.dat
-0 BUFEXCHG A STORE
 1 1 -20 -10 -100 0 -1 0 1 0 0 0 0 1 43093.dat
 1 1 -20 -10 100 0 -1 0 1 0 0 0 0 1 43093.dat
 0 NOFILE 
@@ -2373,7 +2372,6 @@
 0 //  Skin meta #1 is using a static color.
 0 //  To ensure correct edge colors those segments are placed in (a) subpart(s).
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 powerfuncmotorm-lq-1_subPart1.ldr
-0 NOFILE 
 0 FILE powerfuncmotorm-lq-1_subpart1.ldr
 0 Name: powerfuncmotorm-lq-1_subPart1.ldr
 0 Author: LDCad
@@ -2485,6 +2483,7 @@
 1 16 0.006075 -20.996571 217.484883 0.075648 0.043284 0.997076 -0.996971 -0.06909 0.075828 0.018035 -4.000938 0.009477 u9190.dat
 1 16 -0.001965 -20.999634 220.593756 0.090075 0.01324 0.99593 -0.995935 -0.002468 0.090077 0.000912 -4.001746 0.00324 u9190.dat
 0 NOFILE 
+0 NOFILE 
 0 FILE powerfuncmotorm-lq-2.ldr
 0 Author: LDCad
 0 !LICENSE Creative Commons BY-SA
@@ -2508,7 +2507,6 @@
 0 //  Skin meta #1 is using a static color.
 0 //  To ensure correct edge colors those segments are placed in (a) subpart(s).
 1 0 0 0 0 1 0 0 0 1 0 0 0 1 powerfuncmotorm-lq-2_subPart1.ldr
-0 NOFILE 
 0 FILE powerfuncmotorm-lq-2_subpart1.ldr
 0 Name: powerfuncmotorm-lq-2_subPart1.ldr
 0 Author: LDCad
@@ -2598,6 +2596,7 @@
 1 16 0.354926 3.668934 -31.931515 0.02057 0.229891 0.998123 -0.305937 -3.786996 0.061204 0.951829 -1.222185 -0.001899 u9190.dat
 1 16 0.163342 6.60722 -30.894075 0.022325 0.242391 0.9979 -0.327675 -3.757043 0.06477 0.944527 -1.309121 -0.001117 u9190.dat
 1 16 -0.035537 9.523683 -29.805748 0.023902 0.253091 0.997696 -0.346254 -3.729606 0.067844 0.937836 -1.383441 -0.000379 u9190.dat
+0 NOFILE 
 0 NOFILE 
 0 FILE q.ldr
 0 Author: Jaap Joris Vens

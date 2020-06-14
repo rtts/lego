@@ -17,4 +17,4 @@ images:
 
 # Bumper Car
 
-Steers like a real bumper car!
+A great use for the original Lego bumper pieces of the [8824](https://brickset.com/sets/8824-1)!

@@ -1,0 +1,20 @@
+---
+title: Bumper Car
+year: 2020
+cover: renders/main.png
+images:
+  - renders/flagpole.png
+  - renders/side.png
+  - renders/main.png
+  - renders/under_the_hood.png
+  - renders/top.png
+  - renders/drivetrain.png
+  - renders/red.png
+  - renders/multiple.png
+  - instructions.png
+  - ldcad.png
+---
+
+# Bumper Car
+
+Steers like a real bumper car!

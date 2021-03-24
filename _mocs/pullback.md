@@ -8,8 +8,8 @@ images:
   - renders/side2.png
   - renders/gearbox.png
   - renders/front.png
-  - renders/pov.png
   - renders/rear.png
+  - renders/pov.png
   - instructions.png
   - ldcad.png
 ---

@@ -8,7 +8,6 @@ images:
   - renders/main3.png
   - renders/chains.png
   - renders/front.png
-  - renders/side.png
   - renders/carb.png
   - renders/top.png
   - renders/rear2.png

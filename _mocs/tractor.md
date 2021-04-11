@@ -16,7 +16,5 @@ images:
 
 # Tractor Unit
 
-This MOC is built around a sequential gearbox with four speeds.
-Driving, steering, and gear selection are all remotely operated by two
-Power Functions remote controls. The cabin is suspended and
-(optionally) fitted with PF lights.
+The ultimate tractor truck with a suspended cabin and a 4-speed
+sequential gearbox!

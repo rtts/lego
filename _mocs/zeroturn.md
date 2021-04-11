@@ -16,5 +16,4 @@ images:
 
 # Zero-Turn Mower
 
-Mow your carpet from your smartphone, thanks to the excellent
-[BuWizz](https://buwizz.com/) remote control.
+Mow your carpet from your smartphone!

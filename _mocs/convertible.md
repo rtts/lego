@@ -16,8 +16,6 @@ images:
 
 # Compact Convertible
 
-Fully remote controlled car with suspension, windshield wipers and a
-[folding roof](https://www.youtube.com/watch?v=yfqGnbM_LIQ)!
-
-The speed of the 2-speed windshield wipers is determined by the
-rotation direction of the wiper motor.
+This car has a remotely controlled folding roof. [Watch the
+video](https://www.youtube.com/watch?v=yfqGnbM_LIQ) to see how it
+works!

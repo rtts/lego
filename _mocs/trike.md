@@ -15,5 +15,4 @@ images:
 
 # Trike
 
-Motorcycle front-end and a car back-end, with full suspension and
-Power Functions remote control.
+Motorcycle front-end and a car back-end. Remotely controlled!

@@ -14,7 +14,6 @@ images:
   - ldcad.png
 ---
 
-# Pullback Motorcycle
+# Pullback
 
-All-black motorcycle with a 2-speed gearbox powered by two Lego
-pullback motors in a V-twin configuration.
+Elegant, minimalist and all-black motorcycle that does actual burnouts!

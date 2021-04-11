@@ -6,6 +6,7 @@ images:
   - renders/cylinder.png
   - renders/bottom.png
   - renders/main3.png
+  - renders/chains.png
   - renders/front.png
   - renders/side.png
   - renders/carb.png

@@ -15,6 +15,6 @@ images:
   - ldcad.png
 ---
 
-# Bumper Car
+# Bumper Cars
 
-Remotely controlled bumpercar that steers just like the real thing!
+Remotely controlled bumpercars that steer exactly like a real bumpercar!

@@ -20,4 +20,4 @@ images:
 
 # Big Thumper
 
-Bad-ass custom cruiser with a BIG single-cylinder engine and ape-hangers!
+A unique custom motorcycle with a BIG single-cylinder engine, funky steering linkage, and ape-hanger handlebars!

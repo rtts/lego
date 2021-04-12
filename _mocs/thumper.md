@@ -20,4 +20,4 @@ images:
 
 # Big Thumper
 
-A unique custom motorcycle with a BIG single-cylinder engine and ape-hanger handlebars!
+A unique custom chopper with a BIG single-cylinder engine and ape-hanger handlebars!

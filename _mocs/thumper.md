@@ -7,9 +7,9 @@ images:
   - renders/bottom.png
   - renders/chains.png
   - renders/parked.png
+  - renders/side.png
   - renders/front.png
   - renders/rear.png
-  - renders/side.png
   - renders/carb.png
   - renders/top.png
   - renders/rear2.png

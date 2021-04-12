@@ -14,6 +14,6 @@ images:
   - ldcad.png
 ---
 
-# Pullback
+# Pullback Motorcycle
 
-Elegant, minimalist and all-black motorcycle that does actual burnouts!
+An elegant, minimalist and all-black motorcycle with a 2-speed gearbox. And it does actual burnouts!

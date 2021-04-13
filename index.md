@@ -2,13 +2,14 @@
 layout: home
 ---
 
-Hi there! You've stumbled upon my personal Lego Technic creations
-website. Here I share my building instructions and
-[LDraw](https://ldraw.org/) files. Thank you for your interest and
-have fun building!
+Hi there! I'm an MOC designer from the Netherlands and you've stumbled
+upon my personal homepage. Enjoy!
 
 Greetings,  
 [Jaap Joris](https://jaapjoris.nl/)
 
-<small>Please note that this site is in no way affiliated with The
-Lego Group</small>
+<small>All building instructions (PDF), all
+[LDraw](https://ldraw.org/) source files (MPD) and all of
+the images can be downloaded and shared freely under the
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+license.</small>

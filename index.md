@@ -3,7 +3,7 @@ layout: home
 ---
 
 Hi there! I'm an MOC designer from the Netherlands and you've stumbled
-upon my personal homepage. Enjoy!
+upon my personal LEGO homepage. Enjoy!
 
 Greetings,  
 [Jaap Joris](https://jaapjoris.nl/)
